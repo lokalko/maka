@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	
+	<head>
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="style.css">							
+<title>maka's ART</title>
+	
+	</head>
+
+<h1 class="nadpis">My art</h1>
+
+<a href="https://www.instagram.com/_makaart_/" target="_blank"> <img src="ig.png" class="iglogo"  width="70" height="70"></a>
+
+<hr>
+<pre>
+		  sunset ✨                              mountains 🏔                        older one 🐘                          purple pot 🌱
+		   50x60		                     90x70                         crylic painting
+
+</pre>
+
+<img src="maka.png" title="sunset ✨ 50x60" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka1.png" title="mountains 🏔 90x70, acrylic" width="350" height="400" style="margin: 10px 10px 10px 10px;" />
+<img src="maka2.png" title="older one 🐘 acrylic painting" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka3.png" title="purple pot 🌱" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+
+<hr>
+
+<pre>
+		  sunset ✨                              mountains 🏔                        older one 🐘                          purple pot 🌱
+		   50x60		                     90x70                         crylic painting
+
+</pre>
+
+<img src="maka4.png" title="work in progress #drawing" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka5.png" title="mountains 🏔 90x70, acrylic" width="350" height="400" style="margin: 10px 10px 10px 10px;" />
+<img src="maka6.png" title="older one 🐘 acrylic painting" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka7.png" title="purple pot 🌱" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+
+<hr>
+
+<pre>
+		  sunset ✨                              mountains 🏔                        older one 🐘                          purple pot 🌱
+		   50x60		                     90x70                         crylic painting
+
+</pre>
+
+<img src="maka8.png" title="sunset ✨ 50x60" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka9.png" title="mountains 🏔 90x70, acrylic" width="350" height="400" style="margin: 10px 10px 10px 10px;" />
+<img src="maka10.png" title="older one 🐘 acrylic painting" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+<img src="maka11.png" title="purple pot 🌱" width="350" height="400" style="margin: 10px 10px 10px 10px;"/>
+
+<hr>
+
+
+
+</body>
+</html>
